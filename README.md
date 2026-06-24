@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricia-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Caricia de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-seda/) |
+| **Get License** | [Get a Licensing Quote for Caricia de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
