@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricia de seda
+
+This log tracks the cryptographic history and versioning for the song **Caricia de seda** (caricia-de-seda).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T06:37:14.121989 | `v1` | `` | `f6c234700afbf44d0697c419373f1e55068665f87f2257702668528bbec30f4d` | `2026-06-24_caricia-de-seda-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
